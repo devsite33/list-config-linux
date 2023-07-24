@@ -1,0 +1,14 @@
+configuracion de plastik  en linux kubuntu
+
+instalacion de linux
+
+
+instalar el servidor  nginx
+sudo apt-get install nginx -y
+
+verification version server nginx
+sudo systemctl status  nginx
+
+sudo  apt-get install php8.1-fpm
+
+instalar php
