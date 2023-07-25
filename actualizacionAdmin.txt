@@ -1,0 +1,19 @@
+ANDROID STUDIO INSTALL
+
+LO PARA ACTUALIZACION 
+sudo apt-get install nautilus-admin 
+
+move downlaods/android-studio
+to opt/android-studio
+
+ir a home en no-admin 
+colocar el linix con archivos invisibles
+.local/share/applications
+
+DESCARGA ACCESO DEL PROFRAMA 	
+[Desktop Entry]
+Name=Android Studio
+Type=Application
+Terminal=false
+Exec=/opt/android-studio/bin/studio.sh
+Icon=/opt/android-studio/bin/studio.svg
